@@ -1,0 +1,12 @@
+{
+  "name": "cafe",
+  "version": "1.0.0",
+  "description": "균케이",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "install": "pkg index.js --targets node18-win-x64 "
+  },
+  "author": "이현배",
+  "license": "ISC"
+}
